@@ -7,7 +7,12 @@ export default {
     touchSubmitSuccessDesc: '我们的团队会尽快与您联系',
     signSubmitSuccess: '签名请求成功',
     signSubmitSError: '签名请求失败',
-    signSubmitSuccessDesc: '请前往您的邮箱查看进行Dropbox签名'
+    signSubmitSuccessDesc: '请前往您的邮箱查看进行Dropbox签名',
+    investSuccess: '投资成功',
+    investSuccessDesc: '您向此产品投资了{amount}USDT',
+    investError: '投资失败',
+    notEnoughBalanceError: '您的USDT余额不足',
+    getDropboxSignError: '获取Dropbox签名失败'
   },
   en: {
     sendVerifyCodeError: 'Verification Code Send Error',
@@ -17,6 +22,11 @@ export default {
     touchSubmitSuccessDesc: 'Our team will be in touch as soon as possible',
     signSubmitSuccess: 'Sign submit successfully',
     signSubmitSError: 'Sign submit Error',
-    signSubmitSuccessDesc: 'Please go to your mailbox to check for Dropbox signature'
+    signSubmitSuccessDesc: 'Please go to your mailbox to check for Dropbox signature',
+    investSuccess: 'Invest successfully',
+    investSuccessDesc: 'You bought the product worth {amount} USDT',
+    investError: 'Invest Error',
+    notEnoughBalanceError: 'Your USDT balance not enough',
+    getDropboxSignError: 'Get dropbox signature error',
   }
 }
