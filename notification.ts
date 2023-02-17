@@ -12,7 +12,10 @@ export default {
     investSuccessDesc: '您向此产品投资了{{amount}}USDT',
     investError: '投资失败',
     notEnoughBalanceError: '您的USDT余额不足',
-    getDropboxSignError: '获取Dropbox签名失败'
+    getDropboxSignError: '获取Dropbox签名失败',
+    withdrawSuccess: '赎回成功',
+    withdrawSuccessDesc: '您从此产品池中赎回了 {{amount}} USDT',
+    withdrawError: '赎回失败',
   },
   en: {
     sendVerifyCodeError: 'Verification Code Send Error',
@@ -28,5 +31,8 @@ export default {
     investError: 'Invest Error',
     notEnoughBalanceError: 'Your USDT balance not enough',
     getDropboxSignError: 'Get dropbox signature error',
+    withdrawSuccess: 'Withdraw successfully',
+    withdrawSuccessDesc: 'You withdrew {{amount}} USDT from the product pool',
+    withdrawError: 'Withdraw Error',
   }
 }
