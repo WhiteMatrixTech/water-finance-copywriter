@@ -14,9 +14,9 @@ export default {
     notEnoughBalanceError: '您的USDT余额不足',
     getDropboxSignError: '获取Dropbox签名失败',
     approveUsdtError: '申请USDT权限失败',
-    withdrawSuccess: '赎回成功',
-    withdrawSuccessDesc: '您从此产品池中赎回了 {{amount}} USDT',
-    withdrawError: '赎回失败',
+    claimSuccess: '取出成功',
+    claimSuccessDesc: '您从此产品池中取出了 {{amount}} USDT',
+    claimError: '取出失败',
   },
   en: {
     sendVerifyCodeError: 'Verification Code Send Error',
@@ -33,8 +33,8 @@ export default {
     notEnoughBalanceError: 'Your USDT balance not enough',
     getDropboxSignError: 'Get dropbox signature error',
     approveUsdtError: 'Approve USDT permission error',
-    withdrawSuccess: 'Withdraw successfully',
-    withdrawSuccessDesc: 'You withdrew {{amount}} USDT from the product pool',
-    withdrawError: 'Withdraw Error',
+    claimSuccess: 'Claim successfully',
+    claimSuccessDesc: 'You claim {{amount}} USDT from the product pool',
+    claimError: 'Claim Error',
   }
 }
