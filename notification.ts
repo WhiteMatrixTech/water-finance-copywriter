@@ -17,6 +17,12 @@ export default {
     claimSuccess: '取出成功',
     claimSuccessDesc: '您从此产品池中取出了 {{amount}} USDT',
     claimError: '取出失败',
+    closePoolSuccess: '产品池关闭成功',
+    closePoolSuccessDesc: '产品池 {{productName}} 已经被关闭',
+    closePoolError: '产品池关闭失败',
+    approveBorrowerSuccess: '审批成功',
+    approveBorrowerSuccessDesc: '产品池 {{productName}} 的资金已被审批转移给借款人',
+    approveBorrowerError: '审批失败',
   },
   en: {
     sendVerifyCodeError: 'Verification Code Send Error',
@@ -36,5 +42,11 @@ export default {
     claimSuccess: 'Claim successfully',
     claimSuccessDesc: 'You claim {{amount}} USDT from the product pool',
     claimError: 'Claim Error',
+    closePoolSuccess: 'Close successfully',
+    closePoolSuccessDesc: 'Product pool {{productName}} has been closed',
+    closePoolError: 'Close Error',
+    approveBorrowerSuccess: 'Approve successfully',
+    approveBorrowerSuccessDesc: 'The funds of the product pool {{productName}} have been approved and transferred to the borrower',
+    approveBorrowerError: 'Approve Error',
   }
 }
