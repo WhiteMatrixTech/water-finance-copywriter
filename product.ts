@@ -16,7 +16,8 @@ export default {
     'Due_Date': '池对支持者结束投资开放的日期',
     'Contract_Address': '合约地址',
     'Borrower_Address': '借款人钱包地址',
-    'Drawdown_Cap': '借款人可以从该资金池中提取的资金总额'
+    'Drawdown_Cap': '借款人可以从该资金池中提取的资金总额',
+    'CURRENT_CEILING': '借款池当前资金募集进度'
   },
   en: {
     'ProductName': 'product name',
@@ -35,6 +36,7 @@ export default {
     'Due_Date': 'The date that the Pool will be closed for Backer investments.',
     'Contract_Address': 'The Ethereum address for this Borrower Pool smart contract.',
     'Borrower_Address': 'The Ethereum address associated with this Borrower.',
-    'Drawdown_Cap': 'The total funds that the Borrower can drawdown from this Pool.'
+    'Drawdown_Cap': 'The total funds that the Borrower can drawdown from this Pool.',
+    'CURRENT_CEILING': 'The current fundraising progress of the loan pool'
   }
 }
