@@ -1,8 +1,8 @@
 export default {
   s3BaseUri: 'https://dsxzoz6wy2sxi.cloudfront.net',
   document: {
-    termsOfService: 'https://dsxzoz6wy2sxi.cloudfront.net/doc/Terms_of_service.pdf',
-    privacyPolicy: 'https://dsxzoz6wy2sxi.cloudfront.net/doc/Privacy_Policy.pdf'
+    termsOfService: 'https://docs.waterfinance.xyz/legal/terms-of-service',
+    privacyPolicy: 'https://docs.waterfinance.xyz/legal/privacy-policy'
   },
   social: {
       discord: 'https://discord.gg/ezekclub',
